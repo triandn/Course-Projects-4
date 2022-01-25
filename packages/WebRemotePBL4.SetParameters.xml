@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="KeyLog" />
+  <setParameter name="DB_PBL4Entities-Web.config Connection String" value="metadata=res://*/Models.CSDL.csdl|res://*/Models.CSDL.ssdl|res://*/Models.CSDL.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=LAPTOP-ECUA8JEM;initial catalog=DB_PBL4;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" />
+</parameters>

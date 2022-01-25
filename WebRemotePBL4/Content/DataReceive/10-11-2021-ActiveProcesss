@@ -1,0 +1,72 @@
+
+
+UserName: LAPTOP-ECUA8JEM\trian
+NameProcess: KeyLoggerVersion1.0
+TimeExcute: 10-11-2021 11::45::11 PM
+Path: G:\Document5\PBL4\Botnet-Final\KeyloggerVersion2\bin\Debug\KeyLoggerVersion1.0.exe
+
+
+UserName: LAPTOP-ECUA8JEM\trian
+NameProcess: explorer
+TimeExcute: 10-11-2021 09::32::28 AM
+Path: C:\WINDOWS\Explorer.EXE
+
+
+UserName: LAPTOP-ECUA8JEM\trian
+NameProcess: msedge
+TimeExcute: 10-11-2021 11::02::50 PM
+Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+
+
+UserName: LAPTOP-ECUA8JEM\trian
+NameProcess: devenv
+TimeExcute: 10-11-2021 08::04::42 PM
+Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+
+
+UserName: LAPTOP-ECUA8JEM\trian
+NameProcess: KeyLoggerVersion1.0
+TimeExcute: 10-11-2021 11::45::55 PM
+Path: G:\Document5\PBL4\BotNet2\KeyLogger\bin\Debug\KeyLoggerVersion1.0.exe
+
+
+UserName: LAPTOP-ECUA8JEM\trian
+NameProcess: SocketServer
+TimeExcute: 10-11-2021 11::45::05 PM
+Path: G:\SocketServerTCP\SocketServer\bin\Debug\SocketServer.exe
+
+
+UserName: LAPTOP-ECUA8JEM\trian
+NameProcess: KeyLoggerVersion1.0
+TimeExcute: 10-11-2021 11::58::28 PM
+Path: G:\Document5\PBL4\Botnet-Final\KeyloggerVersion2\bin\Debug\KeyLoggerVersion1.0.exe
+
+
+UserName: LAPTOP-ECUA8JEM\trian
+NameProcess: explorer
+TimeExcute: 10-11-2021 09::32::28 AM
+Path: C:\WINDOWS\Explorer.EXE
+
+
+UserName: LAPTOP-ECUA8JEM\trian
+NameProcess: SocketServer
+TimeExcute: 10-11-2021 11::58::23 PM
+Path: G:\SocketServerTCP\SocketServer\bin\Debug\SocketServer.exe
+
+
+UserName: LAPTOP-ECUA8JEM\trian
+NameProcess: devenv
+TimeExcute: 10-11-2021 08::04::42 PM
+Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+
+
+UserName: LAPTOP-ECUA8JEM\trian
+NameProcess: KeyLoggerVersion1.0
+TimeExcute: 10-11-2021 11::58::36 PM
+Path: G:\Document5\PBL4\BotNet2\KeyLogger\bin\Debug\KeyLoggerVersion1.0.exe
+
+
+UserName: LAPTOP-ECUA8JEM\trian
+NameProcess: Ssms
+TimeExcute: 10-11-2021 09::19::18 PM
+Path: C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Ssms.exe

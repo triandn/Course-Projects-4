@@ -1,0 +1,7 @@
+G:\WebRemotePBL4\SocketServer\bin\Debug\SocketServer.exe.config
+G:\WebRemotePBL4\SocketServer\bin\Debug\SocketServer.exe
+G:\WebRemotePBL4\SocketServer\bin\Debug\SocketServer.pdb
+G:\WebRemotePBL4\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+G:\WebRemotePBL4\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+G:\WebRemotePBL4\SocketServer\obj\Debug\SocketServer.exe
+G:\WebRemotePBL4\SocketServer\obj\Debug\SocketServer.pdb

@@ -1,0 +1,163 @@
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\WebRemotePBL4.dll.config
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\WebRemotePBL4.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\WebRemotePBL4.pdb
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\csc.exe
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\csc.exe.config
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\csc.rsp
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\csi.exe
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\csi.exe.config
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\csi.rsp
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.AppContext.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Collections.Immutable.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Console.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Globalization.Calendars.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.IO.Compression.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.IO.FileSystem.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Net.Http.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Net.Sockets.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Reflection.Metadata.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.ValueTuple.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Xml.XPath.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\vbc.exe
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\vbc.exe.config
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\vbc.rsp
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\VBCSCompiler.exe
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\roslyn\VBCSCompiler.exe.config
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\Antlr3.Runtime.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\Microsoft.Web.Infrastructure.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\Newtonsoft.Json.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Helpers.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Mvc.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Optimization.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Razor.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.WebPages.Deployment.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.WebPages.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.WebPages.Razor.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\WebGrease.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Helpers.xml
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Mvc.xml
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Optimization.xml
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Razor.xml
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.WebPages.xml
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.WebPages.Deployment.xml
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\System.Web.WebPages.Razor.xml
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\Newtonsoft.Json.xml
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\Antlr3.Runtime.pdb
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\obj\Debug\WebRemotePBL4.csproj.AssemblyReference.cache
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\obj\Debug\WebRemotePBL4.csproj.CoreCompileInputs.cache
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\obj\Debug\WebRemotePBL4.csproj.CopyComplete
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\obj\Debug\WebRemotePBL4.dll
+G:\Tài liệu kỳ 4\PBL4 HĐH và MMT\Source\WebRemotePBL4\WebRemotePBL4\obj\Debug\WebRemotePBL4.pdb
+G:\WebRemotePBL4\WebRemotePBL4\bin\WebRemotePBL4.dll.config
+G:\WebRemotePBL4\WebRemotePBL4\bin\WebRemotePBL4.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\WebRemotePBL4.pdb
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\csc.exe
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\csc.exe.config
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\csc.rsp
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\csi.exe
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\csi.exe.config
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\csi.rsp
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.Managed.Core.targets
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.AppContext.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Collections.Immutable.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Console.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Globalization.Calendars.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.IO.Compression.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.IO.FileSystem.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Net.Http.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Net.Sockets.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Reflection.Metadata.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.ValueTuple.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Xml.XmlDocument.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Xml.XPath.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\vbc.exe
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\vbc.exe.config
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\vbc.rsp
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\VBCSCompiler.exe
+G:\WebRemotePBL4\WebRemotePBL4\bin\roslyn\VBCSCompiler.exe.config
+G:\WebRemotePBL4\WebRemotePBL4\bin\Antlr3.Runtime.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\EntityFramework.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\EntityFramework.SqlServer.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\Microsoft.Web.Infrastructure.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\Newtonsoft.Json.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Helpers.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Mvc.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Optimization.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Razor.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.WebPages.Deployment.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.WebPages.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.WebPages.Razor.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\WebGrease.dll
+G:\WebRemotePBL4\WebRemotePBL4\bin\EntityFramework.xml
+G:\WebRemotePBL4\WebRemotePBL4\bin\EntityFramework.SqlServer.xml
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Helpers.xml
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Mvc.xml
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Optimization.xml
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.Razor.xml
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.WebPages.xml
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.WebPages.Deployment.xml
+G:\WebRemotePBL4\WebRemotePBL4\bin\System.Web.WebPages.Razor.xml
+G:\WebRemotePBL4\WebRemotePBL4\bin\Newtonsoft.Json.xml
+G:\WebRemotePBL4\WebRemotePBL4\bin\Antlr3.Runtime.pdb
+G:\WebRemotePBL4\WebRemotePBL4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WebRemotePBL4\WebRemotePBL4\obj\Debug\WebRemotePBL4.csproj.AssemblyReference.cache
+G:\WebRemotePBL4\WebRemotePBL4\obj\Debug\WebRemotePBL4.csproj.CoreCompileInputs.cache
+G:\WebRemotePBL4\WebRemotePBL4\obj\Debug\WebRemotePBL4.csproj.CopyComplete
+G:\WebRemotePBL4\WebRemotePBL4\obj\Debug\WebRemotePBL4.dll
+G:\WebRemotePBL4\WebRemotePBL4\obj\Debug\WebRemotePBL4.pdb
+G:\WebRemotePBL4\WebRemotePBL4\bin\Microsoft.WebSockets.dll

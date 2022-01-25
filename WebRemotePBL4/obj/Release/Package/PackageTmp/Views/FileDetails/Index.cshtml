@@ -1,0 +1,56 @@
+﻿@model IEnumerable<WebRemotePBL4.Models.FileDetail>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Link)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Time)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Folder.Type)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                
+                <img src="~/@item.Link" />
+
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.Time)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Folder.Type)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.ID_Detail }) |
+                @Html.ActionLink("Details", "Details", new { id=item.ID_Detail }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.ID_Detail })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>
